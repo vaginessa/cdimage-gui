@@ -2,8 +2,8 @@
 
 `This is a weekend open-source project which is quite simple`
 
-Background Information
-----------------------
+[背景介绍] Background Information
+--------------------------------
 
 现在市场上已经有不少的的 CD 镜像编辑工具，比如 UltraISO，比如 CyBerian 编写的 CDImage GUI Beta 3
 
@@ -33,5 +33,5 @@ Background Information
 
 `The release page provides the binary file: CDImageGUI.exe. Put it together with CDImage.exe, and it will run`
 
-Screenshot
-----------
+程序截图 [Screenshot]
+--------------------
