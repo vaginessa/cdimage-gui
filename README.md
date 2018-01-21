@@ -37,3 +37,7 @@
 --------------------
 
 <img src='https://github.com/windy32/cdimage-gui/blob/master/html/screenshot.png' />
+
+选择源文件目录，输入目标 iso 文件名，然后点击开始，完成后就可以得到一个简单的数据盘 iso 文件了
+
+`Just select source directory, target iso file, click start, and it's done`
