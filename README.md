@@ -23,7 +23,7 @@
 
 程序基于跨平台的应用程序框架 Qt 搭建，虽然理论上支持多平台，但是由于后端的 CDImage.exe 本体是 win32 程序，所以实际上只能在 Windows 平台运行
 
-`The application is based on the Qt framework. It is not a cross-platform software because the cdimage backend runs only on Windows`
+`The application is based on the Qt framework. It is not a cross-platform software because the cdimage.exe backend runs only on Windows`
 
 本项目不包括 CDImage.exe 程序本身，你必须从其它渠道获得
 
@@ -31,7 +31,7 @@
 
 在 Release 页面将提供了一个编译后的 CDImageGUI.exe 二进制程序，只要把它和 CDImage.exe 放在一起，图形前端就可以运行了
 
-`The release page provides the binary file: CDImageGUI.exe. Put it together with CDImage.exe, and it will run`
+`The release page provides the compiled binary file: CDImageGUI.exe. Put it together with CDImage.exe, and it will run`
 
 程序截图 [Screenshot]
 --------------------
