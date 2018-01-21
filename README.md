@@ -35,3 +35,5 @@
 
 程序截图 [Screenshot]
 --------------------
+
+<img src='https://github.com/windy32/cdimage-gui/blob/master/html/screenshot.png' />
